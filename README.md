@@ -1,4 +1,5 @@
 # Kaggle-Real-or-not-NLP-with-disaster-tweets
 Predict which Tweets are about real disasters and which ones are not.
 
-1.Using count vectorizer and random forest model.(submission score-0.77505)
+1. Using count vectorizer and random forest model (submission score-0.77505)
+2. Using count vectorizer and neural network (submission score-0.78016)
